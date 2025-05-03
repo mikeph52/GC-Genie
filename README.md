@@ -1,1 +1,3 @@
 # GC-Genie
+GC-Genie is a GC percentage calculator written in C++.
+- Coming soon...
