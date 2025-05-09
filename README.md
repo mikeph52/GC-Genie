@@ -7,7 +7,7 @@ gcgenie <filename>
 ```
 
 ### Instalation
-- Download GC-Genie from releases.
+- Download GC-Genie from Releases.
 - Run "chmod +x" first.
 ```
 sudo chmod +x gcgenie
