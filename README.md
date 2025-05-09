@@ -16,3 +16,5 @@ sudo chmod +x gcgenie
 ```
 sudo mv gcgenie /usr/local/bin/
 ```
+### Changelog:
+- 1.0: First release.
