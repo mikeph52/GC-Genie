@@ -1,5 +1,5 @@
 # GC-Genie
-GC-Genie is a GC percentage calculator written in C++.
+GC-Genie is a GC percentage calculator for MacOS, written in C++.
 It currently supports fasta formats.
 - To run the app, simply type:
 ```
