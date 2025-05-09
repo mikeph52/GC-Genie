@@ -6,7 +6,7 @@ It currently supports fasta formats.
 gcgenie <filename>
 ```
 
-### Instalation
+### Installation
 - Download GC-Genie from Releases.
 - Run "chmod +x" first.
 ```
